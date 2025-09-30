@@ -2,15 +2,6 @@
 
 ![HR Dashboard Screenshot](HR%20Summary.png)
 
-## Repository Structure
-
-This repository contains all files needed to reproduce and review the HR Dashboard project:
-
-- **Dashboard_HR_.twbx** &mdash; Tableau packaged workbook.
-- **HR Summary.png** &mdash; Screenshot of the HR dashboard (see above).
-- **LICENSE** &mdash; Project license information.
-- **README.md** &mdash; Project documentation (this file).
-
 ---
 
 ## Overview
