@@ -1,6 +1,6 @@
 # HR Dashboard Project
 
-![HR Dashboard Screenshot](HR%20Summary.png)
+![HR Dashboard Screenshot](HR%20Summary.png) 
 
 ---
 
