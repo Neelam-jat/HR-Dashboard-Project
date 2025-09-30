@@ -42,7 +42,7 @@ The purpose of this dashboard is to provide HR leaders and analysts with actiona
    - Python for further cleaning (handling missing values, standardizing formats).
 3. **Tableau Preparation:** Cleaned CSV or database tables imported into Tableau for visualization.
 
-## Sample SQL Script
+## SQL Script
 
 ```sql name=hr_data_cleaning.sql
 -- Remove duplicates and select relevant columns
@@ -64,7 +64,7 @@ FROM raw_hr_data
 WHERE status IN ('Active', 'Terminated', 'Hired');
 ```
 
-## Sample Python Script
+## Python Script
 
 ```python name=hr_data_cleaning.py
 import pandas as pd
